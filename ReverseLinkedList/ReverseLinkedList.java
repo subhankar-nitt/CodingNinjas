@@ -9,6 +9,9 @@ public class ReverseLinkedList{
 		// head.next.next.next=new LinkedListNode(4);
 		// head.next.next.next.next=new LinkedListNode(5);
 		// head.next.next.next.next.next=null;
+
+		if(head==null || head.next==null)
+			System.out.println(head.data);
 		LinkedListNode<Integer> res= reverseLinkedList(head);
 		res.next=null;
 		while(dupHead!=null ){
