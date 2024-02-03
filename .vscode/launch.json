@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuyAndSellStockIV",
+            "request": "launch",
+            "mainClass": "BuyAndSellStockIV.BuyAndSellStockIV",
+            "projectName": "CoadingNinjas_13e321c"
+        },
+        {
+            "type": "java",
+            "name": "BuyAndSellStockIII",
+            "request": "launch",
+            "mainClass": "BuyAndSellStockIII.BuyAndSellStockIII",
+            "projectName": "CoadingNinjas_13e321c"
+        },
+        {
+            "type": "java",
             "name": "LongestIncSeq",
             "request": "launch",
             "mainClass": "LongestIncSeq.LongestIncSeq",
