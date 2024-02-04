@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AliensDictonary",
+            "request": "launch",
+            "mainClass": "AliensDictionary.AliensDictonary",
+            "projectName": "CoadingNinjas_13e321c"
+        },
+        {
+            "type": "java",
             "name": "BuyAndSellStockIV",
             "request": "launch",
             "mainClass": "BuyAndSellStockIV.BuyAndSellStockIV",
