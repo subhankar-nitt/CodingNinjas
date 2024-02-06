@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CelebrityProblem",
+            "request": "launch",
+            "mainClass": "CelebrityProblem.CelebrityProblem",
+            "projectName": "GFG_CN_58f32382"
+        },
+        {
+            "type": "java",
+            "name": "DetectCycle_DG",
+            "request": "launch",
+            "mainClass": "DetectCycle_DG.DetectCycle_DG",
+            "projectName": "GFG_CN_58f32382"
+        },
+        {
+            "type": "java",
+            "name": "DetectCycle_UCG",
+            "request": "launch",
+            "mainClass": "DetectCycle_Undirected_Graph.DetectCycle_UCG",
+            "projectName": "GFG_CN_58f32382"
+        },
+        {
+            "type": "java",
             "name": "AliensDictonary",
             "request": "launch",
             "mainClass": "AliensDictionary.AliensDictonary",
