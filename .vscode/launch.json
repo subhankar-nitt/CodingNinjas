@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DijikstrasAlgo",
+            "request": "launch",
+            "mainClass": "DijikstrasAlgo.DijikstrasAlgo",
+            "projectName": "GFG_CN_58f32382"
+        },
+        {
+            "type": "java",
+            "name": "SPUnWeightedGraph",
+            "request": "launch",
+            "mainClass": "ShortestPathInUWG.SPUnWeightedGraph",
+            "projectName": "GFG_CN_58f32382"
+        },
+        {
+            "type": "java",
+            "name": "JumpingNumbers",
+            "request": "launch",
+            "mainClass": "JumpingNumbers.JumpingNumbers",
+            "projectName": "GFG_CN_58f32382"
+        },
+        {
+            "type": "java",
             "name": "CelebrityProblem",
             "request": "launch",
             "mainClass": "CelebrityProblem.CelebrityProblem",
